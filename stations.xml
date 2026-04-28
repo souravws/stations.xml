@@ -1,35 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Bangla Radio — Station List
-  Upload this file to your cPanel hosting.
-  Edit here to add / remove / update stations.
-  The app fetches this file on every launch.
+  Edit this file and commit to GitHub to update stations in the app.
 
   Fields:
-    id         — unique identifier, never change once set
-    name       — display name shown in the app
-    url        — direct streaming URL (MP3 / AAC / HLS / SHOUTcast)
-    genre      — genre label shown as a chip
-    logo       — direct image URL for station logo (leave empty if none)
-    active     — true = visible in app, false = hidden without deleting
+    id     — unique identifier, never change once set
+    name   — display name shown in the app
+    url    — streaming URL (MP3 / AAC / HLS / SHOUTcast)
+    active — true = visible, false = hidden without deleting
 -->
 <stations>
 
     <station>
         <id>radio_foorti</id>
-        <name>Radio Foorti 2</name>
+        <name>Radio Foorti</name>
         <url>https://stream-172.zeno.fm/cwa3vg8s8druv</url>
-        <genre>Bangla Hits</genre>
-        <logo></logo>
         <active>true</active>
     </station>
 
     <station>
         <id>peoples_radio</id>
-        <name>Peoples Radio 2</name>
+        <name>Peoples Radio</name>
         <url>https://s3.myradiostream.com:14498/;</url>
-        <genre>Variety</genre>
-        <logo></logo>
         <active>true</active>
     </station>
 
@@ -37,8 +29,6 @@
         <id>radio_goongoon</id>
         <name>Radio GoonGoon</name>
         <url>https://audio.streamcast.xyz/radio/8000/radio.mp3</url>
-        <genre>Mixed</genre>
-        <logo></logo>
         <active>true</active>
     </station>
 
@@ -46,8 +36,6 @@
         <id>radio_vumi</id>
         <name>Radio Vumi</name>
         <url>https://stream-152.zeno.fm/ybf1umk1k18uv</url>
-        <genre>Bangla</genre>
-        <logo></logo>
         <active>true</active>
     </station>
 
@@ -55,8 +43,6 @@
         <id>radio_aamar</id>
         <name>Radio Aamar</name>
         <url>https://stream.zeno.fm/0r0xa792kwzuv</url>
-        <genre>Bangla</genre>
-        <logo></logo>
         <active>true</active>
     </station>
 
@@ -64,8 +50,6 @@
         <id>radio_active</id>
         <name>Radio Active</name>
         <url>https://stream.zeno.fm/4d67yf0bpkzuv</url>
-        <genre>Youth</genre>
-        <logo></logo>
         <active>true</active>
     </station>
 
