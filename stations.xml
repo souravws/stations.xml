@@ -12,8 +12,15 @@
 <stations>
 
     <station>
+        <id>iswara_fm</id>
+        <name>iSwara FM</name>
+        <url>https://n01.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABndXCIAQAF3Y9AHtAuwxA0g</url>
+        <active>true</active>
+    </station>
+
+    <station>
         <id>radio_foorti</id>
-        <name>Radio Foorti 3</name>
+        <name>Radio Foorti</name>
         <url>https://stream-172.zeno.fm/cwa3vg8s8druv</url>
         <active>true</active>
     </station>
@@ -27,15 +34,8 @@
 
     <station>
         <id>radio_goongoon</id>
-        <name>Radio GoonGoon 2</name>
+        <name>Radio GoonGoon</name>
         <url>https://audio.streamcast.xyz/radio/8000/radio.mp3</url>
-        <active>true</active>
-    </station>
-
-    <station>
-        <id>radio_vumi</id>
-        <name>Radio Vumi</name>
-        <url>https://stream-152.zeno.fm/ybf1umk1k18uv</url>
         <active>true</active>
     </station>
 
@@ -47,9 +47,9 @@
     </station>
 
     <station>
-        <id>radio_active</id>
-        <name>Radio Active</name>
-        <url>https://stream.zeno.fm/4d67yf0bpkzuv</url>
+        <id>radio_mahananda</id>
+        <name>Radio Mahananda</name>
+        <url>https://centova47.instainternet.com/proxy/bspmorui?mp=/stream</url>
         <active>true</active>
     </station>
 
