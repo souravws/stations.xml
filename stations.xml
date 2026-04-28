@@ -27,7 +27,7 @@
 
     <station>
         <id>radio_goongoon</id>
-        <name>Radio GoonGoon</name>
+        <name>Radio GoonGoon 2</name>
         <url>https://audio.streamcast.xyz/radio/8000/radio.mp3</url>
         <active>true</active>
     </station>
