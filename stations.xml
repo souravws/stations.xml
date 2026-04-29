@@ -75,20 +75,6 @@
     </station>
 
     <station>
-        <id>classic_rock_florida</id>
-        <name>Classic Rock Florida</name>
-        <url>https://das-edge11-live365-dal03.cdnstream.com/a06375</url>
-        <active>true</active>
-    </station>
-
-    <station>
-        <id>planet_radio_city</id>
-        <name>Planet Radio City</name>
-        <url>https://stream-288.zeno.fm/pxc55r5uyc9uv</url>
-        <active>true</active>
-    </station>
-
-    <station>
         <id>hits_of_bollywood</id>
         <name>Hits Of Bollywood</name>
         <url>https://stream-284.zeno.fm/60ef4p33vxquv</url>
@@ -117,23 +103,9 @@
     </station>
 
     <station>
-        <id>mix_fm</id>
-        <name>MIX FM</name>
-        <url>https://28563.live.streamtheworld.com/MIXFM_LEBANONAAC_SC</url>
-        <active>true</active>
-    </station>
-
-    <station>
         <id>rumba_fm</id>
         <name>Rumba FM</name>
         <url>https://cast20.plugstreaming.com:2020/stream/r981</url>
-        <active>true</active>
-    </station>
-
-    <station>
-        <id>radio_2000</id>
-        <name>Radio 2000</name>
-        <url>https://streaming.adclichosting.com:8030/radio2000.mp3</url>
         <active>true</active>
     </station>
 
